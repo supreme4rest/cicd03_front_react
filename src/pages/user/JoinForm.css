@@ -1,0 +1,28 @@
+
+.idDuplicate{
+    display: flex;
+    justify-content:flex-start;
+   
+}
+
+.idDuplicate .idText{
+   flex: 1;
+   padding-top: 20px ;
+}
+.divBtn{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.h1{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.idText{
+    color: red;
+    font-weight: bold;
+    font-size: 1.3em;
+}

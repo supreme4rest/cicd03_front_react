@@ -1,0 +1,24 @@
+.LabelText{
+    display: flex;
+    gap: 10px;
+   font-size:25px;
+   padding: 15px 50px;
+}
+
+.LabelText .label{
+  min-width: 60px;
+ 
+}
+
+.LabelText .input{
+    flex: 1;
+    border-radius: 3px;
+    font-size:1em;
+}
+
+.LabelText .input_disabled{
+    flex: 1;
+    border:none;
+    font-size:1em;
+}
+

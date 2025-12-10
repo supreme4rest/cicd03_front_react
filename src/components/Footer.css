@@ -1,0 +1,22 @@
+.Footer{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    gap: 10px;
+    padding: 30px;
+    width: auto;
+    background-color: rgba(0, 255, 204, 0.59);
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.Footer> img{
+    width:30px;
+}
+
+.Footer > .Footer_div{
+    text-shadow:  2px 2px 8px #FF0000;
+    color: white;
+}
+
+

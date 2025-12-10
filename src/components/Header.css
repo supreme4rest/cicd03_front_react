@@ -1,0 +1,29 @@
+.Header{
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+    padding: 30px;
+    background-color: rgb(67, 119, 223);
+    font-size: 25px;
+    color: white;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: pink;
+}
+
+.Header .login{
+    flex: 1;
+    text-align: right;
+}
+
+.Header .login > span{
+  margin-right: 20px;
+}

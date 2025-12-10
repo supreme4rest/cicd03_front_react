@@ -1,0 +1,29 @@
+.BoardItem{
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.BoardItem .title_writer{
+   font-size: 25px;
+}
+
+/* .BoardItem  .detailLink{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: #FFFF00;
+    width: 100px;
+    text-align: center;
+}
+
+.BoardItem  .detailLink > a{
+    color: blue;
+} */
+
+.BoardItem  .detailLink button{
+    cursor: pointer;
+    margin-top: 10px;
+}
+

@@ -1,0 +1,24 @@
+.Button{
+    background-color: rgb(236, 236, 236);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    white-space: nowrap;/*이버튼안에 있는 text가 화면이 줄어들어도 줄바꿈되지않도록 한다.*/
+}
+
+.Button_button{
+    background-color: rgb(100, 201, 100);    
+    color: white;
+  }
+  
+  .Button_reset{
+      background-color: rgb(86, 131, 253);    
+      color: white;
+  }
+
+  .detail{
+    background-color: rgb(76, 198, 243);    
+    color: white;
+  }

@@ -1,0 +1,42 @@
+
+.idDuplicate{
+    display: flex;
+    justify-content:flex-start;
+}
+
+.idDuplicate .idText{
+   flex: 1;
+   padding-top: 20px ;
+}
+.divBtn{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.h1{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+
+.divContent{
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.divContent .divContent_label{
+    font-size: 25px ;
+    margin-left: 50px;
+}
+
+.divContent .divContent_textarea{
+    padding: 20px;
+    width:60%;
+    min-height: 200px;
+    resize:vertical;
+    box-sizing: border-box;
+    font-size: 25px ;
+}
